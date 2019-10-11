@@ -11,3 +11,7 @@ ALLOWED_HOSTS = ['my-app.cloud.example.com', 'example.domain.net', 'lvh.me']
 ```
 
 To run locally, you can use `lvh.me` domain.
+
+## License
+
+This project is licensed under the BSD 3-Clause License - read [LICENSE.md](LICENSE) file for details.
